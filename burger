@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>W3.CSS Template</title>
+<style>
+.w3-top
+{
+position:fixed;
+width:100%;
+}
+
+</style>
+</head>
+<body>
+<div class="w3-top">
+  <div class="div1" style="letter-spacing:4px;">
+    <a href="#home" class="w3-bar-item w3-button">Gourmet au Catering</a>
+   
+    <div class="div2">
+      <a href="#about" class="w3-bar-item w3-button">About</a>
+      <a href="#menu" class="w3-bar-item w3-button">Menu</a>
+      <a href="#contact" class="w3-bar-item w3-button">Contact</a>
+    </div>
+  </div>
+</div>
+
+</div>
+</div>
+</div>
+</body>
+</html>
